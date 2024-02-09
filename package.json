@@ -12,6 +12,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "docker": "docker build -t bimint/io ."
   },
   "dependencies": {
     "@types/node": "18.15.7",
